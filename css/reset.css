@@ -1,0 +1,7 @@
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+li { list-style: none; }
+a { color: #333; text-decoration: none; transition: color 0.3s; }
+img { max-width: 100%; height: auto; display: block; }
+button { border: none; cursor: pointer; background: none; font-family: inherit; }
+input { border: none; outline: none; font-family: inherit; }
